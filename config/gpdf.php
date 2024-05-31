@@ -82,7 +82,7 @@ return [
      * Storage path for generated PDFs.
      * @var string
      */
-    GpdfSet::STORAGE_PATH => GpdfDefault::STORAGE_PAT,
+    GpdfSet::STORAGE_PATH => GpdfDefault::STORAGE_PATH,
 
     /**
      * Default media type for the generated PDFs.
