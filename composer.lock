@@ -1699,16 +1699,16 @@
         },
         {
             "name": "omaralalwi/gpdf",
-            "version": "1.0.3",
+            "version": "1.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/omaralalwi/Gpdf.git",
-                "reference": "46ee7ab95899e346e7f641b9f05bbb5e578eac0a"
+                "reference": "a8f37facd586ae93458d28ac822e82106fe2c60a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/omaralalwi/Gpdf/zipball/46ee7ab95899e346e7f641b9f05bbb5e578eac0a",
-                "reference": "46ee7ab95899e346e7f641b9f05bbb5e578eac0a",
+                "url": "https://api.github.com/repos/omaralalwi/Gpdf/zipball/a8f37facd586ae93458d28ac822e82106fe2c60a",
+                "reference": "a8f37facd586ae93458d28ac822e82106fe2c60a",
                 "shasum": ""
             },
             "require": {
@@ -1795,9 +1795,9 @@
             ],
             "support": {
                 "issues": "https://github.com/omaralalwi/Gpdf/issues",
-                "source": "https://github.com/omaralalwi/Gpdf/tree/v1.0.3"
+                "source": "https://github.com/omaralalwi/Gpdf/tree/v1.0.4"
             },
-            "time": "2024-08-30T00:01:42+00:00"
+            "time": "2024-09-04T17:52:33+00:00"
         },
         {
             "name": "psr/clock",
